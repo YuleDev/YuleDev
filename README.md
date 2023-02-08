@@ -15,7 +15,7 @@ let education = [
 let hobbies = ["Gaming", "Fishing", "Cooking", "Coding!"]
 
 const goalOf2023 = "I want to utilize what I'm learning
-at MTEC's IOS Development course to create and publish an app to the Itunes Store"
+at MTEC's IOS Development course to create and publish an app to the Apple App Store."
 
 ```
 
