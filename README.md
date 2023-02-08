@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-#🌱 I’m currently learning Swift and IOS development at MTEC in Lehi. 
-
 ```Javascript
 let fullName = "Kole Ervine"
 let currentLocation = "Saratoga Springs, UT"
