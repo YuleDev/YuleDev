@@ -1,6 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=750&color=B10A0A&center=true&width=435&lines=Full+Stack+Web+Developer;IOS+%26+Swift+Developer)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=750&color=B10A0A&center=true&width=435&lines=Full+Stack+Web+Developer;IOS+%26+Swift+Developer)](https://git.io/typing-svg)
+#🌱 I’m currently learning Swift and IOS development at MTEC in Lehi. 
 
 <!--
 **BullMooseDev/BullMooseDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
