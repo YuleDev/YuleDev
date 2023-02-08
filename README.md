@@ -4,6 +4,9 @@
 
 #🌱 I’m currently learning Swift and IOS development at MTEC in Lehi. 
 
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+
 <!--
 **BullMooseDev/BullMooseDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
