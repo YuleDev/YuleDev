@@ -4,7 +4,7 @@
 
 #🌱 I’m currently learning Swift and IOS development at MTEC in Lehi. 
 
-![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic)
+![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic&label=Total+Visitors)
 
 
 <!--
