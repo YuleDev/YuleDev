@@ -21,6 +21,8 @@ at MTEC's IOS Development course to create and publish an app to the Itunes Stor
 
 ## 📫 How to reach me:
 
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" href= "https://www.linkedin.com/in/bullmoosedev/"/>
 
 ![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic&label=Total+Visitors)
