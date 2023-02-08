@@ -8,8 +8,8 @@ let currentLocation = "Saratoga Springs, UT"
 let currentOccupation = "Student"
 
 let education = [
-{school: "University of Utah", topic: "Web Development"},
-{school: "Mountainland Technical College", topic: "IOS Development"}
+{school: "University of Utah", subject: "Web Development"},
+{school: "Mountainland Technical College", subject: "IOS Development"}
 ]
 
 let hobbies = ["Gaming", "Fishing", "Cooking", "Coding!"]
