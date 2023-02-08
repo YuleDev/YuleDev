@@ -4,6 +4,18 @@
 
 #🌱 I’m currently learning Swift and IOS development at MTEC in Lehi. 
 
+'''Javascript
+let fullName = "Kole Ervine"
+let currentLocation = "Saratoga Springs, UT"
+let currentOccupation = "Student"
+
+let education = [
+{school: "University of Utah", topic: "Web Development"},
+{school: "Mountainland Technical College", topic: "IOS Development"}
+]
+
+'''
+
 ![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic&label=Total+Visitors)
 
 
