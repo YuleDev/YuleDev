@@ -23,7 +23,7 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 
 ## 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bullmoosedev/)     [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:koleervine@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bullmoosedev/)     [mailto](mailto:koleervine@gmail.com)
 
 
 # Look at that dang varmit go!
@@ -36,6 +36,8 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 
 
 <!--
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
