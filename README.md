@@ -29,6 +29,8 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 # Look at that dang varmit go!
 ![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
 
+![Snake animation](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
   ![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
@@ -40,9 +42,7 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 
 <!--
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.svg)
 
 **BullMooseDev/BullMooseDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
