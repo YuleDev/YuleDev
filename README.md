@@ -27,22 +27,15 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 
 
 # Look at that dang varmit go!
-![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
 
 ![Snake animation](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.svg)
-
-<picture>
-  ![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
 
 ![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic&label=Total+Visitors)
 
 <!--
 
-![Snake animation](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.svg)
+// the below snippet is for light mode snake
+![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
 
 **BullMooseDev/BullMooseDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
