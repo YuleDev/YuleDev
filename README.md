@@ -27,7 +27,7 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 
 
 # Look at that dang varmit go!
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
 
 ![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic&label=Total+Visitors)
 
