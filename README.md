@@ -27,7 +27,13 @@ at MTEC's IOS Development course to create and publish an app to the Apple App S
 
 
 # Look at that dang varmit go!
-![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/BullMooseDev/BullMooseDev/blob/output/github-contribution-grid-snake.gif) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=BullMooseDev&style=plastic&label=Total+Visitors)
 
