@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1500&color=B50000&width=435&lines=Full+Stack+Web+Developer;IOS+%26+Swift+Developer)](https://git.io/typing-svg)
-
 ### Howdy Partner! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```Javascript
