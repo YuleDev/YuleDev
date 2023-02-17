@@ -3,19 +3,19 @@
 ### Howdy Partner! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```Javascript
-let fullName = "Kole Ervine"
-let currentLocation = "Saratoga Springs, UT"
-let currentOccupation = "Student"
+let fullName = "Kole Ervine";
+let currentLocation = "Saratoga Springs, UT";
+let currentOccupation = "Student";
 
 let education = [
 {school: "University of Utah", subject: "Web Development"},
 {school: "Mountainland Technical College", subject: "IOS Development"}
-]
+];
 
-let hobbies = ["Gaming", "Fishing", "Cooking", "Coding!"]
+let hobbies = ["Gaming", "Fishing", "Cooking", "Coding!"];
 
 const goalOf2023 = "I want to utilize what I'm learning
-at MTEC's IOS Development course to create and publish an app to the Apple App Store."
+at MTEC's IOS Development course to create and publish an app to the Apple App Store.";
 
 ```
 ## 🔭 Things I've worked with:
