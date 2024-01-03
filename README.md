@@ -4,17 +4,17 @@
 ```Javascript
 let fullName = "Kole Ervine";
 let currentLocation = "Saratoga Springs, UT";
-let currentOccupation = "Student";
+let currentOccupation = "iOS Developer with the USDA";
 
 let education = [
 {school: "University of Utah", subject: "Web Development"},
 {school: "Mountainland Technical College", subject: "IOS Development"}
 ];
 
-let hobbies = ["Gaming", "Fishing", "Cooking", "Coding"];
+let hobbies = ["Gaming", "Fishing", "Cooking", "Coding", "Hiking"];
 
-const goalOf2023 = "I want to utilize what I'm learning
-at MTEC's IOS Development course to create and publish an app to the Apple App Store.";
+const goalOf2024 = "I want to utilize what I've learned
+at MTEC's IOS Development course to create and build awesome apps!";
 
 ```
 ## 🔭 Tools I've worked with:
